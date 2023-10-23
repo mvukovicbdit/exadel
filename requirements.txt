@@ -1,0 +1,3 @@
+pandas==1.5.3
+rapidfuzz=3.4.0
+fuzzy_pandas=0.1
